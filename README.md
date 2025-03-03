@@ -14,6 +14,6 @@
 ## 🛠️ Installation
 Clone this repository and install dependencies:
 ```sh
-git clone https://github.com/Kwasiga06/photo-compressor.git
-cd photo-compressor
+git clone https://github.com/Kwasiga06/PhotoCompressor.git
+cd PhotoCompressor
 pip install -r requirements.txt  # If using Python
